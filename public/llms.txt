@@ -1,0 +1,57 @@
+# בריאלי – הדרך הקלה לגוף בריא — Generative Engine Optimization Map
+
+> A חינוך ובריאות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-81c321dc.zappy5.app
+בריאלי מציעה תכנית תזונה מותאמת אישית לתלמידי חטיבת ביניים. מידע על תזונה נכונה לבני נוער עם מים איכותיים ותכניות בריאות מקיפות.
+
+### השירותים שלנו
+https://-81c321dc.zappy5.app/services
+גלו את השירותים המקיפים של בריאלי: מים איכותיים eden tal water, noga water pure, וסדנאות תזונה לבני נוער. מידע על תזונה נכונה לבני נוער.
+
+### אודות
+https://-81c321dc.zappy5.app/about
+למדו על הסיפור של בריאלי, החזון שלנו לקדם תזונה בריאה עם eden tal water ו-noga water pure, והמחויבות שלנו למתן מידע על תזונה נכונה לבני נוער.
+
+### צור קשר
+https://-81c321dc.zappy5.app/contact
+צרו קשר עם בריאלי לקבלת מידע נוסף על תכניות התזונה שלנו, מים איכותיים eden tal water ו-noga water pure, ומידע על תזונה נכונה לבני נוער.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-81c321dc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-81c321dc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-81c321dc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בריאלי – הדרך הקלה לגוף בריא
+בריאלי – הדרך הקלה לגוף בריא is a business in the חינוך ובריאות industry.
+
+## Target Audience
+תלמידי חטיבת ביניים
+
+## Industry
+חינוך ובריאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-81c321dc.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-81c321dc.zappy5.app/robots.txt
